@@ -9,8 +9,8 @@
 
 View the data, contribute some numbers, and share with your friends and colleages!
 
-[Gender Data](https://github.com/czchapma/college-diversity-data/blob/master/gender.csv)
-[Race Data](https://github.com/czchapma/college-diversity-data/blob/master/race.csv)
+####* [Gender Data](https://github.com/czchapma/college-diversity-data/blob/master/gender.csv)
+####* [Race Data](https://github.com/czchapma/college-diversity-data/blob/master/race.csv)
 
 ### New to git, but still want to contribute?
 1. Click issues
